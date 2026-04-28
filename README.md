@@ -2,6 +2,8 @@
 List of Computer Vision Projects with Full Implementation codes
 
 
+▶ [Tutorial] How to Build a Lightweight Vision-Language-Action-Inspired Embodied Agent with Latent World Modeling and Model Predictive Control [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Computer%20Vision/embodied_vla_latent_mpc_agent_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/04/27/how-to-build-a-lightweight-vision-language-action-inspired-embodied-agent-with-latent-world-modeling-and-model-predictive-control/)
+
 ▶ [Tutorial] A Coding Implementation of MolmoAct for Depth-Aware Spatial Reasoning, Visual Trajectory Tracing, and Robotic Action Prediction [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Computer%20Vision/molmoact_spatial_reasoning_action_prediction_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/04/12/a-coding-implementation-of-molmoact-for-depth-aware-spatial-reasoning-visual-trajectory-tracing-and-robotic-action-prediction/)
 
 ▶ [Tutorial] A Coding Guide to Markerless 3D Human Kinematics with Pose2Sim, RTMPose, and OpenSim [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Computer%20Vision/pose2sim_markerless_3d_kinematics_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/04/10/a-coding-guide-to-markerless-3d-human-kinematics-with-pose2sim-rtmpose-and-opensim/)
